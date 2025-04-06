@@ -8,7 +8,7 @@
 
 > *Using code to improve healthcare, one line at a time*
 
-I'm a passionate developer focused on creating innovative healthcare solutions that make a real difference in people's lives. My mission is to leverage technology to address real-world health challenges.
+I'm a dedicated developer with a passion for creating innovative solutions in healthcare. I leverage my skills in programming and technology to tackle real-world challenges, particularly in improving the lives of people with Type 1 diabetes. I focus on building user-centric applications that make a tangible difference.
 
 ---
 
@@ -16,37 +16,51 @@ I'm a passionate developer focused on creating innovative healthcare solutions t
 
 <img align="right" width="300" src="https://img.shields.io/badge/InsulinMate-Healthcare%20Innovation-blue?style=for-the-badge&logo=medical&logoColor=white" />
 
-I'm developing **InsulinMate** - a specialized application designed to help Type 1 diabetes patients who use insulin pumps and continuous glucose monitoring sensors.
+**InsulinMate** is a project close to my heart. It’s a specialized application designed to help patients with Type 1 diabetes who use insulin pumps and continuous glucose monitoring sensors. The goal is to streamline diabetes management by integrating advanced features such as:
 
 ### ✨ Key Features:
-- 📊 **Real-time glucose monitoring** integration
-- 💉 Smart **insulin dose calculation** assistance
-- 📈 Advanced **pattern recognition** for better glucose management
-- 🎯 **Predictive alerts** to prevent hypo/hyperglycemia
-- 🔄 **Data synchronization** across devices
-- 👤 **User-friendly interface** designed with patient input
+- 📊 **Real-time Glucose Monitoring:** Seamlessly integrate data from sensors.
+- 💉 **Smart Insulin Dose Calculation:** Assist in accurate dosing.
+- 📈 **Advanced Pattern Recognition:** Identify trends in glucose levels.
+- 🎯 **Predictive Alerts:** Provide timely warnings to prevent hypo/hyperglycemia.
+- 🔄 **Data Synchronization:** Ensure consistency across multiple devices.
+- 👤 **User-friendly Interface:** Designed with the patient in mind.
 
 ---
 
 ## 🛠️ Tech Stack
 
-```javascript
-const techStack = {
-  languages: ["JavaScript", "Python", "TypeScript", "C#"],
-  frameworks: ["React", "Node.js", "Express", "Flutter"],
-  databases: ["MongoDB", "PostgreSQL", "Firebase"],
-  tools: ["Docker", "Git", "AWS", "Azure"],
-  healthcareTech: ["HL7 FHIR", "DICOM", "Medical Device Integration"]
-};
-```
+### Languages
+![C++](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Healthcare Tech
+![FHIR](https://img.shields.io/badge/HL7_FHIR-E8E8E8?style=for-the-badge&logo=health&logoColor=black)
+![DICOM](https://img.shields.io/badge/DICOM-3A9BDC?style=for-the-badge&logo=medical&logoColor=white)
+![Medical Devices](https://img.shields.io/badge/Medical_Device_Integration-7D29A0?style=for-the-badge&logo=devices&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himusuwu&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himusuwu&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -73,10 +87,10 @@ const techStack = {
 ---
 
 ### ⚡ Fun fact
-*When I'm not coding, you can find me [your interesting hobby or activity]!*
+*When I'm not coding, you can find me exploring new technologies and theories about the cosmos!*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=himusuwu&label=Profile%20views&color=0e75b6&style=flat" alt="himusuwu" />
 </div>
 
 > "The goal isn't just to build technology. The goal is to build technology that makes a difference."
