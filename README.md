@@ -10,8 +10,9 @@ I am a Computer Science student focused on understanding how complex systems wor
 ## Main Project: InsulinMate
 Originally, I developed **InsulinMate** in Python as a personal tool to manage my basal insulin doses. It turned out to be a common challenge for many people with Type 1 Diabetes, making it a project that combines technical problem-solving with real-world impact.
 
-## Tech Stack
+## Tech Stack & Tools
 * **Languages:** C++, Java, Python, SQL
+* **Security & SIEM:** Wazuh (self-hosted home lab)
 * **Tools:** Docker
 
 ## GitHub Stats
