@@ -21,5 +21,5 @@ Originally, I developed **InsulinMate** in Python as a personal tool to manage m
 </p>
 
 ## Contact
-* [LinkedIn](https://linkedin.com/in/yourusername)
-* [Email](mailto:your.email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/dawid-pstrzoch-476a57201/)
+* [Email](mailto:pstrzochdawid@gmail.com)
