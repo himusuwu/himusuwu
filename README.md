@@ -18,7 +18,6 @@ Originally, I developed **InsulinMate** in Python as a personal tool to manage m
 ## GitHub Stats
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=himusuwu&show_icons=true&theme=graywhite&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himusuwu&layout=compact&theme=graywhite&hide_border=true" />
 </p>
 
 ## Contact
